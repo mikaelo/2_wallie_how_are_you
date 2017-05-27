@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import random
 
 
@@ -19,4 +17,4 @@ def get_wallie_action():
 
 if __name__ == '__main__':
     action = get_wallie_action()
-    print action
+    print (action)
